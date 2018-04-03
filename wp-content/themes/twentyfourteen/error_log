@@ -1,0 +1,4 @@
+[09-Oct-2017 02:58:38 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/carwest/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[17-Oct-2017 09:07:31 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/carwest/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[19-Nov-2017 08:06:22 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/carwest/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[28-Jan-2018 10:52:56 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/carwest/public_html/wp-content/themes/twentyfourteen/404.php on line 10
